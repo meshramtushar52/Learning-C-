@@ -1,4 +1,1 @@
-** What does Call By Value mean?
-~~ When passing arguments to a function, the call by value method duplicates the actual value of each argument into the formal parameter of the function. Here, modifying the parameter inside the function has no impact on the argument.
 
-C programming by default passes arguments using call by value. Generally speaking, it denotes that the code inside a function cannot change the arguments passed to the function during callbacks.
