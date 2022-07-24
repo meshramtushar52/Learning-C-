@@ -8,12 +8,13 @@ int main(){
 
     int arr[n];
     int i;
+    //Taking Input
     for(i = 0;i < n;i++){
         cin>>arr[i];
     }
 
     cout<<"The Array is :"<<endl;
-
+    //Printing Output
     for(i = 0;i < n;i++){
         cout<<arr[i]<<endl;
     }
